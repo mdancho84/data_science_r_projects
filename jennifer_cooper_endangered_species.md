@@ -24,8 +24,8 @@ Financial</small>
 I’ve been “heads down” this weekend working on a special R project. This
 week I gave myself a challenge to start using R at work and also come up
 with a project on the side that I could use to help review what I’ve
-learned so far in Business Science University’s DS4B 101-R course (Link
-to ⭐️FREE⭐️ Jumpstart course: <https://bit.ly/2KALtJN>).
+learned so far in [Business Science University’s DS4B 101-R
+course](https://university.business-science.io/p/ds4b-101-r-business-analysis-r/?coupon_code=ds4b15&affcode=173166_fpyudtfo).
 
 In addition to being passionate about data science, I also love animals
 and am concerned about the plight of wildlife across the world,
@@ -42,8 +42,8 @@ out how to connect to our SQL database this week), carve out more time
 to practice, and I may write up an article on working with `tabulizer`
 and PDFs.
 
-Interested in learning \#R? Join me in the 101 course:
-<https://bit.ly/2KALtJN>
+Interested in learning \#R? [Join me in the 101
+course](https://university.business-science.io/p/ds4b-101-r-business-analysis-r/?coupon_code=ds4b15&affcode=173166_fpyudtfo).
 
 # My Workflow
 
@@ -163,7 +163,7 @@ endangered_species_renamed_tbl %>% head()
 
 There are a few issues with the data:
 
-1.  Column 6 is all NA’s - We can just drop this column
+1.  Column labelled “Missing” is all NA’s - We can just drop this column
 2.  3 of the columns are combined - Amphibians, Fishes, and Insects - We
     can `separate()` these into 3 columns
 3.  The data is in “wide” format, which isn’t tidy - We can use
